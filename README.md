@@ -4,4 +4,4 @@ Python + sklearn<br>
 <br>
 <br>
 ## 📖 책 정보
-<img src="https://github.com/kokokim/hg-MLDL/assets/111446760/b5480aa8-9c23-4b07-bebb-fe57b2c04471" width=550>
+<img src="https://github.com/kokokim/hg-MLDL/assets/111446760/5ede8920-d7ac-4722-b528-300d9fca4090" width=450>
